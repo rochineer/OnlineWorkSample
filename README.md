@@ -23,6 +23,8 @@ and sustainability.
 
 [Real Estate Market Analysis and Price Projection in Nashvile](https://rochineer.github.io/Data-Analytics-Home-Price-Prediction/) 
 
+[Crime Data Analysis and Risk Modeling in Chicago](https://rochineer.github.io/Crime-Risk-Chicago/)
+
 
 #### WEB MAPPING - JAVASCRIPT/HTML/CSS
 
