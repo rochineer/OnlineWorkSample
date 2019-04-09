@@ -15,7 +15,7 @@ and sustainability.
 [Architecture and Urban Design Portfolio](https://issuu.com/rocj/docs/yj_worksample) 
 
 #### GEOSPATIAL ANALYSIS - GIS
-[Work sample - GIS Analysis for Impacts of Chicago Riverwalk](https://issuu.com/rocj/docs/yj_worksample) 
+[GIS Analysis for Impacts of Chicago Riverwalk](https://issuu.com/rocj/docs/gis_worksample) 
 
 #### DATA WRANGLING AND ANALYTICS - R/PYTHON
 
