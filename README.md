@@ -1,17 +1,31 @@
 # ROCKY'S WORK SAMPLE
 
-### GEOSPATIAL ANALYSIS - GIS
+### Yichao (Rocky) Jia
+(215) 594-3721 | yichjia@design.upenn.edu
+
+City planning graduate student with expertise
+in urban design and data/spatial analytics,
+background in Architecture and experience in
+graphic/UI design. Passionate about creatively
+rethinking the urban future to prioritize human
+needs and advance inclusiveness, resilience
+and sustainability.
+
+#### ARCHITECTURE AND URBAN DESIGN 
+[Architecture and Urban Design Portfolio](https://issuu.com/rocj/docs/yj_worksample) 
+
+#### GEOSPATIAL ANALYSIS - GIS
 
 
 
-### GEOSPATIAL ANALYSIS - R/PYTHON
+#### DATA WRANGLING AND ANALYTICS - R/PYTHON
 
 [Anaylsis and Prediction Modeling for Food Safety in Chicago](https://rochineer.github.io/Food-Inspection-Modeling/) 
 
 [Real Estate Market Analysis and Price Projection in Nashvile](https://rochineer.github.io/Data-Analytics-Home-Price-Prediction/) 
 
 
-### WEB MAPPING - JAVASCRIPT/HTML/CSS
+#### WEB MAPPING - JAVASCRIPT/HTML/CSS
 
 [Mapping Demo 1 - Changing Layer Color using Mapbox GL JS](https://rochineer.github.io/Web-Mapping-Demo-1/) 
 
