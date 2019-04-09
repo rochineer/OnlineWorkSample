@@ -33,7 +33,7 @@ and sustainability.
 
 #### INTERACTION DESIGN AND PROTOTYPING - ARDUINO
 
-[Video: A Little Experiment with Sensors - Conventional Trash Bin Redesign](https://youtu.be/hZdT3pXvnZ4)
+[Video: A Little Experiment with Sensors - Conventional Trash Bin Redesign](https://youtu.be/hZdT3pXvnZ4) <br/>
 
 You can find detailed introduction about this project [here](http://www.sensingthecity.com/conversational-bin/)
 
