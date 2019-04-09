@@ -17,19 +17,26 @@ and sustainability.
 #### GEOSPATIAL ANALYSIS - GIS
 [GIS Analysis for Impacts of Chicago Riverwalk](https://issuu.com/rocj/docs/gis_worksample) 
 
+
+
 #### DATA WRANGLING AND ANALYTICS - R/PYTHON
 
 [Anaylsis and Prediction Modeling for Food Safety in Chicago](https://rochineer.github.io/Food-Inspection-Modeling/) 
+
 [Video: App Design for Food Safety Data Sharing in Chicago](https://youtu.be/kkv4jmZV-iU)
 
 [Real Estate Market Analysis and Price Projection in Nashvile](https://rochineer.github.io/Data-Analytics-Home-Price-Prediction/) 
 
 [Crime Data Analysis and Risk Modeling in Chicago](https://rochineer.github.io/Crime-Risk-Chicago/)
 
+
+
 #### INTERACTION DESIGN AND PROTOTYPING - ARDUINO
 
 [Video: A Little Experiment with Sensors - Conventional Trash Bin Redesign](https://youtu.be/hZdT3pXvnZ4)
+
 You can find detailed introduction about this project [here](http://www.sensingthecity.com/conversational-bin/)
+
 
 
 #### WEB MAPPING - JAVASCRIPT/HTML/CSS
