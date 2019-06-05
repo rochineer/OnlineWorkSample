@@ -33,8 +33,8 @@ and sustainability.
 
 #### WEB MAPPING - JAVASCRIPT/HTML/CSS
 
-[Mapping Project 1 - Detroit Neighborhood Search](https://rochineer.github.io/FinalProject-YichaoJia/) 
-This is a web-based interative map that allows users to obtain basic data about neighborhood amenities in Detroit. 
+[Mapping Project 1 - Detroit Neighborhood Search](https://rochineer.github.io/FinalProject-YichaoJia/) <br/>
+- This is a web-based interative map that allows users to obtain basic data about neighborhood amenities in Detroit. 
 
 [Mapping Demo 1 - Slides showing mapping results in sequence](https://rochineer.github.io/midterm_YJ/) 
 
