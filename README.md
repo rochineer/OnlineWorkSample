@@ -31,6 +31,17 @@ and sustainability.
 
 
 
+#### WEB MAPPING - JAVASCRIPT/HTML/CSS
+
+[Mapping Project 1 - Detroit Neighborhood Search](https://rochineer.github.io/FinalProject-YichaoJia/) 
+This is a web-based interative map that allows users to obtain basic data about neighborhood amenities in Detroit. 
+
+[Mapping Demo 1 - Slides showing mapping results in sequence](https://rochineer.github.io/midterm_YJ/) 
+
+[Mapping Demo 2 - Optimizing Route using Mapbox API](https://rochineer.github.io/Web-Mapping-Demo2/) 
+
+
+
 #### INTERACTION DESIGN AND PROTOTYPING - ARDUINO
 
 [Video: A Little Experiment with Sensors - Conventional Trash Bin Redesign](https://youtu.be/hZdT3pXvnZ4) <br/>
@@ -39,10 +50,3 @@ You can find detailed introduction about this project [here](http://www.sensingt
 
 
 
-#### WEB MAPPING - JAVASCRIPT/HTML/CSS
-
-[Mapping Demo 1 - Changing Layer Color using Mapbox GL JS](https://rochineer.github.io/Web-Mapping-Demo-1/) 
-
-[Mapping Demo 2 - Optimizing Route using Mapbox API](https://rochineer.github.io/Web-Mapping-Demo2/) 
-
-[Mapping Demo 3 - Slides showing mapping results in sequence](https://rochineer.github.io/midterm_YJ/ ) 
