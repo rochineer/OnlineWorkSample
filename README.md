@@ -1,25 +1,21 @@
-# ROCKY'S WORK SAMPLE
+# ROCKY'S Multi-disciplinary WORK SAMPLE
 
 ### Yichao (Rocky) Jia
-(215) 594-3721 | yichjia@design.upenn.edu
+(215) 594-3721 | yich.jia@alumni.upenn.edu
 
-City planning graduate student with expertise
-in urban design and data/spatial analytics,
-background in Architecture and experience in
-graphic/UI design. Passionate about creatively
-rethinking the urban future to prioritize human
-needs and advance inclusiveness, resilience
-and sustainability.
+Urban Designer/Planner with expertise in geospatial analytics and a background in Architecture. Passionate about using data and technologies to drive the design and planning of urban environments for a more inclusive and sustainable future.
 
-#### ARCHITECTURE AND URBAN DESIGN 
-[Architecture and Urban Design Portfolio](https://issuu.com/rocj/docs/yj_worksample) 
 
-#### GEOSPATIAL ANALYSIS - GIS
-[GIS Analysis for Impacts of Chicago Riverwalk](https://issuu.com/rocj/docs/gis_worksample) 
+#### WEB MAPPING - JAVASCRIPT/HTML/CSS
+
+[Mapping Project 1 - Detroit Neighborhood Search](https://rochineer.github.io/FinalProject-YichaoJia/) <br/>
+- This is a web-based interative map that allows users to obtain basic data about neighborhood amenities in Detroit. 
+
+[Mapping Demo 1 - Slides showing mapping results in sequence](https://rochineer.github.io/midterm_YJ/) 
 
 
 
-#### DATA WRANGLING AND ANALYTICS - R/PYTHON
+#### DATA WRANGLING AND URBAN ANALYTICS - R/PYTHON
 
 [Anaylsis and Prediction Modeling for Food Safety in Chicago](https://rochineer.github.io/Food-Inspection-Modeling/) 
 
@@ -31,14 +27,12 @@ and sustainability.
 
 
 
-#### WEB MAPPING - JAVASCRIPT/HTML/CSS
+#### ARCHITECTURE AND URBAN DESIGN - Portfolio @ issuu
+[Architecture and Urban Design Portfolio](https://issuu.com/rocj/docs/yj_worksample) 
 
-[Mapping Project 1 - Detroit Neighborhood Search](https://rochineer.github.io/FinalProject-YichaoJia/) <br/>
-- This is a web-based interative map that allows users to obtain basic data about neighborhood amenities in Detroit. 
 
-[Mapping Demo 1 - Slides showing mapping results in sequence](https://rochineer.github.io/midterm_YJ/) 
-
-[Mapping Demo 2 - Optimizing Route using Mapbox API](https://rochineer.github.io/Web-Mapping-Demo2/) 
+#### GEOSPATIAL ANALYSIS - GIS
+[GIS Analysis for Impacts of Chicago Riverwalk](https://issuu.com/rocj/docs/gis_worksample) 
 
 
 
