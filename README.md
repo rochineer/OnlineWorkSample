@@ -1,4 +1,4 @@
-# ROCKY'S Multi-disciplinary WORK SAMPLE
+# ROCKY'S WORK SAMPLES
 
 ### Yichao (Rocky) Jia
 (215) 594-3721 | yich.jia@alumni.upenn.edu
